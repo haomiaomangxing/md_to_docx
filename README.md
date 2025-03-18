@@ -2,8 +2,7 @@
 
 # 将deepseek等大模型的回答转换为docx的小工具
 
-# 基于pandoc
-# https://github.com/jgm/pandoc
+# 基于pandoc  https://github.com/jgm/pandoc
 
 # 支持Latex公式
 
